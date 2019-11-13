@@ -1,2 +1,2 @@
 # TensorFlow-Specialization
-Coursera TensorFlow Specialization
+Coursera TensorFlow Specialization by DeepLearning.ai
